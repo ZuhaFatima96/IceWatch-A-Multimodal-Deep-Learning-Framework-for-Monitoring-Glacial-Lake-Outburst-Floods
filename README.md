@@ -49,7 +49,7 @@ IceWatch combines a convolutional classifier of Sentinel-2 scenes with forecasts
 
 ## Data
 
-The data used in the paper are available at **[Google Drive](ADD-LINK-HERE)**:
+The data used in the paper are available at **[Google Drive](https://drive.google.com/drive/folders/1XktjHZsgBJCstKsLPvwWqq6DwIp2NaJO?usp=sharing)**:
 
 | Folder | Content | Made by |
 |---|---|---|
