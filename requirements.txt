@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tensorflow
+torch
+rasterio
+pyproj
+shapely
+xarray
+zarr
+s3fs
+requests
+pystac-client
+planetary-computer
+odc-stac

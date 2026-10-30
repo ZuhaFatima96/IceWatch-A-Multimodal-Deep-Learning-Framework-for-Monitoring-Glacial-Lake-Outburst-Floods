@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+title: "IceWatch: a multimodal deep-learning framework for monitoring glacial lake outburst floods, evaluated at Shisper Glacier, Karakoram"
+message: "If you use this software, please cite the paper below."
+type: software
+authors:
+  - given-names: Zuha
+    family-names: Fatima
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: "Muhammad Anser"
+    family-names: Sohaib
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: Muhammad
+    family-names: Talha
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: Ayesha
+    family-names: Kanwal
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: Sidra
+    family-names: Sultana
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: Nazia
+    family-names: Perwaiz
+    email: nazia.perwaiz@seecs.edu.pk
+    affiliation: "School of Electrical Engineering and Computer Science (SEECS), National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+repository-code: "https://github.com/ZuhaFatima96/IceWatch-A-Multimodal-Deep-Learning-Framework-for-Early-Warning-of-GLOFs"
+abstract: >-
+  IceWatch combines a convolutional classifier of Sentinel-2 scenes (RiskFlow),
+  forecasts of glacier velocity from ITS_LIVE (TerraFlow) and of MODIS land-surface
+  temperature (TempFlow), and a probabilistic fusion stage (FusionFlow). It is
+  evaluated at the ice-dammed lake of Shisper Glacier, Karakoram, which drained
+  four times between 2019 and 2022, and with a transfer test on 103 other
+  ice-dammed lakes.
+keywords:
+  - glacial lake outburst flood
+  - GLOF
+  - ice-dammed lake
+  - deep learning
+  - remote sensing
+  - Sentinel-2
+  - ITS_LIVE
+  - MODIS
+  - Karakoram
+license: MIT
+version: 2.0.0
+date-released: "2026-10-30"
+preferred-citation:
+  type: article
+  title: "IceWatch: a multimodal deep-learning framework for monitoring glacial lake outburst floods, evaluated at Shisper Glacier, Karakoram"
+  authors:
+    - given-names: Zuha
+      family-names: Fatima
+    - given-names: "Muhammad Anser"
+      family-names: Sohaib
+    - given-names: Muhammad
+      family-names: Talha
+    - given-names: Ayesha
+      family-names: Kanwal
+    - given-names: Sidra
+      family-names: Sultana
+    - given-names: Nazia
+      family-names: Perwaiz
+  journal: "Natural Hazards and Earth System Sciences"
+  year: 2026
+  notes: "Under review"
