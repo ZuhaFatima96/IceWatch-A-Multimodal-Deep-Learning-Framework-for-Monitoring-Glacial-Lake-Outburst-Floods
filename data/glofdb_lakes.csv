@@ -1,0 +1,121 @@
+lake_id,region,glacier,lake,lat,lon,n_events
+RGI60_01_56.201_-130.08,01_Alaska,Salmon Glacier,Summit Lake,56.20126,-130.07971,6
+RGI60_01_57.977_-133.091,01_Alaska,Sawyer Glacier,n11,57.97653,-133.09081,2
+RGI60_01_58.411_-136.638,01_Alaska,Brady Glacier,Spur Lake,58.41139,-136.63765,1
+RGI60_01_58.424_-136.644,01_Alaska,Brady Glacier,PM46,58.4243,-136.6438,3
+RGI60_01_58.459_-134.496,01_Alaska,Mendenhall Glacier,Suicide Lake,58.45869,-134.49574,6
+RGI60_01_58.529_-136.668,01_Alaska,Brady Glacier,PM42,58.52875,-136.66763,1
+RGI60_01_58.545_-136.664,01_Alaska,Brady Glacier,PM41,58.5451,-136.66386,1
+RGI60_01_58.751_-137.604,01_Alaska,Lituya Glacier,Desolation Lake,58.751,-137.604,6
+RGI60_01_58.763_-134.467,01_Alaska,Gilkey Glacier,PM31,58.76314,-134.46669,4
+RGI60_01_58.76_-134.47,01_Alaska,Gilkey Glacier,PM31,58.76,-134.47,1
+RGI60_01_58.778_-134.441,01_Alaska,Gilkey Glacier,PM30,58.77812,-134.44072,2
+RGI60_01_58.877_-137.769,01_Alaska,Fairweather Glacier (northern arm),n746,58.87681,-137.76896,6
+RGI60_01_58.879_-133.863,01_Alaska,Tulsequah Glacier,Lake No Lake,58.87853,-133.86266,6
+RGI60_01_58.997_-134.562,01_Alaska,Field Glacier,PM29,58.99692,-134.56228,5
+RGI60_01_59.493_-138.443,01_Alaska,Novatak Glacier,PM27,59.49339,-138.44303,2
+RGI60_01_59.54_-138.424,01_Alaska,Novatak Glacier,PM26,59.53951,-138.42361,2
+RGI60_01_59.56_-138.535,01_Alaska,East Yakutat Glacier,PM28,59.56022,-138.53519,5
+RGI60_01_59.632_-138.362,01_Alaska,Battle Glacier,n651,59.63161,-138.36244,6
+RGI60_01_60.039_-150.455,01_Alaska,Tustumena Glacier,n162,60.03884,-150.45469,6
+RGI60_01_60.044_-140.27,01_Alaska,Seward Glacier,n622,60.04361,-140.27022,6
+RGI60_01_60.073_-149.608,01_Alaska,Bear Glacier,Ice Lake,60.07296,-149.60787,2
+RGI60_01_60.093_-140.997,01_Alaska,Agassiz Glacier,PM25,60.09287,-140.99744,1
+RGI60_01_60.114_-141.032,01_Alaska,Agassiz Glacier,n620,60.11422,-141.03153,1
+RGI60_01_60.199_-149.945,01_Alaska,Skilak Glacier,Skilak lake,60.1991,-149.94467,4
+RGI60_01_60.331_-142.952,01_Alaska,Bering Glacier,PM4,60.33123,-142.95221,2
+RGI60_01_60.352_-142.536,01_Alaska,Bering Glacier,n583,60.35225,-142.53575,1
+RGI60_01_60.364_-142.517,01_Alaska,Bering Glacier,n500,60.36415,-142.5166,2
+RGI60_01_60.367_-142.497,01_Alaska,Bering Glacier,n513,60.36681,-142.49676,1
+RGI60_01_60.388_-142.565,01_Alaska,Bering Glacier,n503,60.38839,-142.56502,1
+RGI60_01_60.403_-143.551,01_Alaska,Steller Glacier,n564,60.40322,-143.55052,2
+RGI60_01_60.404_-143.803,01_Alaska,Steller Glacier,Berg Lake,60.40351,-143.80331,6
+RGI60_01_60.434_-143.35,01_Alaska,Bering Glacier,Tappets Lake,60.43357,-143.34974,6
+RGI60_01_60.477_-142.773,01_Alaska,Bering Glacier,PM5,60.47665,-142.77323,1
+RGI60_01_60.481_-149.026,01_Alaska,Moose,Moose,60.48073,-149.02583,2
+RGI60_01_60.483_-148.925,01_Alaska,Snow,Snow,60.48258,-148.925,6
+RGI60_01_60.561_-145.165,01_Alaska,Sherman,Sherman Lake,60.56052,-145.16514,4
+RGI60_01_60.611_-142.211,01_Alaska,Tana Glacier,PM6,60.6112,-142.21122,1
+RGI60_01_60.696_-144.408,01_Alaska,Miles Glacier,Van Cleve Lake,60.69587,-144.40824,6
+RGI60_01_60.778_-139.135,01_Alaska,Kaskawulsh Glacier,Kaskawulsh Lake,60.77819,-139.13541,3
+RGI60_01_60.815_-140.457,01_Alaska,Logan Glacier,PM24,60.81548,-140.45739,4
+RGI60_01_60.818_-144.863,01_Alaska,Allen Glacier,PM2,60.81752,-144.86329,6
+RGI60_01_60.959_-152.447,01_Alaska,Blockade Glacier (west arm),Blockade Lake,60.95876,-152.44689,2
+RGI60_01_61.145_-146.838,01_Alaska,Columbia Glacier,Lake Number One,61.14512,-146.83818,5
+RGI60_01_61.185_-139.484,01_Alaska,Donjek Glacier,Donjek glacier lake,61.185,-139.484,1
+RGI60_01_61.22_-146.136,01_Alaska,Valdez,Valdez,61.2204,-146.136,4
+RGI60_01_61.492_-151.902,01_Alaska,Triumvirate Glacier,Strandline Lake,61.4918,-151.90163,4
+RGI60_01_61.49_-151.994,01_Alaska,Triumvirate Glacier,n270,61.48989,-151.99392,4
+RGI60_01_61.561_-143.094,01_Alaska,Kennicott Glacier,Hidden Creek Lake,61.56086,-143.09383,6
+RGI60_01_61.596_-146.474,01_Alaska,Tazlina Glacier,n210,61.59554,-146.47387,6
+RGI60_01_61.597_-146.621,01_Alaska,Tazlina Glacier,Big Lake,61.59664,-146.62079,2
+RGI60_01_61.629_-141.982,01_Alaska,Russell Glacier,PM21,61.62921,-141.98195,3
+RGI60_01_61.641_-152.135,01_Alaska,Trimble Glacier,n150,61.64097,-152.13507,6
+RGI60_01_61.665_-146.887,01_Alaska,Nelchina Glacier,Nelchina South,61.66454,-146.88665,6
+RGI60_01_61.693_-146.924,01_Alaska,Nelchina Glacier,Nelchina North,61.69343,-146.9239,6
+RGI60_01_61.782_-142.504,01_Alaska,Nizina Glacier,PM18,61.78191,-142.5043,2
+RGI60_01_61.818_-143.993,01_Alaska,Long Glacier,PM9,61.81827,-143.99343,1
+RGI60_01_61.835_-143.993,01_Alaska,Long Glacier,PM8,61.83474,-143.9933,1
+RGI60_01_61.839_-143.389,01_Alaska,Nabesna Glacier,PM17,61.83853,-143.38946,6
+RGI60_01_61.984_-143.074,01_Alaska,Nabesna Glacier,PM15,61.98421,-143.07439,1
+RGI60_01_62.757_-150.549,01_Alaska,Tokositna Glacier,n178,62.75682,-150.54941,1
+RGI60_01_63.608_-147.56,01_Alaska,Yanert Glacier,n214,63.60826,-147.56003,6
+RGI60_05_67.137_-50.075,05_GreenlandPeriphery,Russell Glacier,,67.13668,-50.07482,5
+RGI60_05_71.078_-26.516,05_GreenlandPeriphery,Edward Bailey Glacier,Catalina Lake,71.0781,-26.51579,1
+RGI60_05_74.649_-21.399,05_GreenlandPeriphery,A.P. Olsen Glacier,,74.64917,-21.39919,2
+RGI60_05_77.684_-68.519,05_GreenlandPeriphery,Bowdoin Glacier (Kangerluarsuup Sermia),,77.68422,-68.51943,1
+RGI60_06_64.101_-17.111,06_Iceland,Skeiðarárjökull,Norðurdalslón 3,64.10065,-17.11075,1
+RGI60_06_64.101_-17.134,06_Iceland,Skeiðarárjökull,Norðurdalslón 4,64.10067,-17.1344,1
+RGI60_06_64.104_-17.16,06_Iceland,Skeiðarárjökull,Norðurdalslón 5,64.10359,-17.16035,2
+RGI60_06_64.111_-17.113,06_Iceland,Skeiðarárjökull,Norðurdalslón 2,64.11059,-17.1133,2
+RGI60_06_64.119_-17.115,06_Iceland,Skeiðarárjökull,Norðurdalslón 1,64.11897,-17.11489,2
+RGI60_06_64.162_-17.342,06_Iceland,Skeiðarárjökull,Grænalón,64.1622,-17.34175,5
+RGI60_06_64.211_-16.461,06_Iceland,Breiðamerkurjökull,Fossadalslón,64.21138,-16.46067,6
+RGI60_06_64.696_-20.477,06_Iceland,Langjökull,Marginal lake by Hafrafell,64.6958,-20.4768,1
+RGI60_06_64.745_-16.298,06_Iceland,Brúarjökull,Lagoon SW Hnútulón,64.74515,-16.29814,1
+RGI60_08_59.895_7.132,08_Scandinavia,Nupsfonn,,59.8954,7.1315,2
+RGI60_08_60.545_7.315,08_Scandinavia,Rembesdalskåka,Demmevatn,60.54504,7.31518,6
+RGI60_08_60.757_7.297,08_Scandinavia,Storskavlen,,60.75718,7.29664,2
+RGI60_08_61.505_6.69,08_Scandinavia,Marabreen,,61.50536,6.69016,1
+RGI60_08_61.52_8.451,08_Scandinavia,Vestre Memurubrean,,61.52032,8.45104,2
+RGI60_08_61.701_7.667,08_Scandinavia,Harbardsbreen,Unknown,61.70098,7.66678,5
+RGI60_08_61.727_6.982,08_Scandinavia,Ruteflotbreen,,61.72702,6.98187,2
+RGI60_08_61.741_7.721,08_Scandinavia,Fortundalsbreen,Heksegryta,61.74051,7.72096,1
+RGI60_08_61.768_7.382,08_Scandinavia,,,61.76822,7.38153,1
+RGI60_08_61.778_7.31,08_Scandinavia,Bre ved Stegholtbreen,,61.77762,7.31035,1
+RGI60_08_61.917_7.353,08_Scandinavia,Tystigbreen,,61.91688,7.35299,2
+RGI60_08_61.94_7.584,08_Scandinavia,Sandåbreen,Unknown,61.93981,7.58396,6
+RGI60_08_65.977_14.2,08_Scandinavia,Oksfjellbreen,,65.97739,14.20018,6
+RGI60_08_66.549_13.732,08_Scandinavia,Svartisheibreen,Heiavatnet,66.54881,13.73188,2
+RGI60_08_67.312_16.096,08_Scandinavia,Rundvassbreen,Øvre Messingmalmvatn,67.31167,16.09566,6
+RGI60_08_68.205_17.261,08_Scandinavia,Frostisen,,68.20546,17.26103,1
+RGI60_11_45.969_7.808,11_CentralEurope,Gornergletscher,Gornersee,45.96856,7.8076,1
+RGI60_11_45.974_7.797,11_CentralEurope,Gornergletscher,New Lake,45.97408,7.79722,1
+RGI60_11_46.38_7.54,11_CentralEurope,Glacier de la Plaine Morte,Lac de Faverges,46.38034,7.53962,3
+RGI60_13_33.233_91.087,13_CentralAsia,CN5Z213B0016,2,33.233,91.087,2
+RGI60_13_33.382_90.847,13_CentralAsia,CN5Z213A0017,8,33.382,90.847,1
+RGI60_13_33.939_89.062,13_CentralAsia,CN5Z611A0007,49,33.939,89.062,1
+RGI60_13_35.256_80.729,13_CentralAsia,CN5Z433C0027 Gongxing Glacier,350,35.256,80.729,1
+RGI60_13_35.496_82.079,13_CentralAsia,CN5Y636J0044,402,35.496,82.079,1
+RGI60_13_35.566_81.895,13_CentralAsia,CN5Y636K0025,371,35.566,81.895,1
+RGI60_13_36.065_91.051,13_CentralAsia,CN5Y542H0034 Monuomaha Glacier,105,36.065,91.051,1
+RGI60_13_42.207_79.846,13_CentralAsia,Engilchek,Merzbacher,42.20678,79.8464,5
+RGI60_13_43.007_76.847,13_CentralAsia,RGI60-13.10042,No1,43.00693,76.84739,1
+RGI60_14_35.677_77.193,14_SouthAsiaWest,Kyagar,Kyagar Lake,35.67741,77.19325,2
+RGI60_14_36.342_75.479,14_SouthAsiaWest,Khurdopin,,36.34234,75.47861,3
+RGI60_17_-46.65_-73.74,17_SouthAndes,Gl. San Rafael,,-46.65,-73.74,2
+RGI60_17_-46.666_-73.704,17_SouthAndes,San Rafael Glacier,Unknown004,-46.66578,-73.70353,3
+RGI60_17_-46.73_-73.763,17_SouthAndes,Gl. San Rafael,Lago San Rafael,-46.72956,-73.76315,1
+RGI60_17_-47.142_-73.369,17_SouthAndes,Colonia Glacier,Lake upstream of Lago Cachet 2,-47.14234,-73.36913,2
+RGI60_17_-47.184_-73.819,17_SouthAndes,HPN1,Unknownxxxxx005,-47.18408,-73.81864,3
+RGI60_17_-47.18_-73.261,17_SouthAndes,Colonia Glacier,Lago Cachet 2,-47.17956,-73.26061,3
+RGI60_17_-47.25_-73.836,17_SouthAndes,Acodado,,-47.2503,-73.8359,6
+RGI60_17_-47.436_-73.562,17_SouthAndes,HPN4 Glacier,,-47.43632,-73.56158,5
+RGI60_17_-48.59_-73.815,17_SouthAndes,Bernardo Glacier,Lago Bernardo,-48.59019,-73.81512,1
+RGI60_17_-48.728_-73.875,17_SouthAndes,Glaciar Témpano,Lago Témpanos Dos,-48.72786,-73.87459,6
+RGI60_17_-48.813_-74.039,17_SouthAndes,Occidental,,-48.81252,-74.03932,3
+RGI60_17_-48.974_-73.145,17_SouthAndes,,Laguna Pirámide,-48.97369,-73.14473,1
+RGI60_17_-49.104_-73.876,17_SouthAndes,Pio XI,Laguna Ciega 2,-49.10375,-73.87574,1
+RGI60_17_-49.546_-73.053,17_SouthAndes,Viedma,Laguna Viedma,-49.54611,-73.0533,4
+RGI60_17_-49.907_-73.218,17_SouthAndes,Upsala Glacier,Lago Guillermo,-49.90669,-73.21789,1
+RGI60_17_-50.5_-72.98,17_SouthAndes,Gl. Perito Moreno,Lago Argentino,-50.5,-72.98,1
